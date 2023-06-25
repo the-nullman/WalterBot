@@ -1,0 +1,5 @@
+{
+	"token": "BOT_TOKEN",
+	"clientId": "DEV_DASHBOARD_APP_ID",
+	"guildId": "SERVER_ID"
+}
